@@ -69,7 +69,7 @@ python main.py --help
 ### 📸 Prints
 
 ![image](https://github.com/user-attachments/assets/5a3a658d-9e25-42d6-97e0-9ede8629fedf)
-![image](https://github.com/user-attachments/assets/8116371e-2402-4290-af9c-bd29ed6cd0ea)
+![image](https://github.com/user-attachments/assets/99662788-4fd1-4cc9-a802-ce141949a9b0)
 ![image](https://github.com/user-attachments/assets/4b85cf5e-be7a-4c47-be85-0a7396f1723f)
 
 ### 📄 Licença
