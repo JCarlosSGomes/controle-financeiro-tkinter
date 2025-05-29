@@ -47,11 +47,11 @@ cd controle-financeiro-tkinter
 ### 2️⃣ Crie e ative o ambiente virtual
 
 # Windows
-python -m venv venv
+python -m venv venv  
 venv\Scripts\activate
 
 # Linux/macOS
-python3 -m venv venv
+python3 -m venv venv  
 source venv/bin/activate
 
 ### 3️⃣ Instale as dependências
@@ -66,11 +66,17 @@ python -m gui.app
 
 python main.py --help
 
-## 📸 Prints
+### 📸 Prints
 
 ![image](https://github.com/user-attachments/assets/5a3a658d-9e25-42d6-97e0-9ede8629fedf)
 ![image](https://github.com/user-attachments/assets/8116371e-2402-4290-af9c-bd29ed6cd0ea)
 ![image](https://github.com/user-attachments/assets/4b85cf5e-be7a-4c47-be85-0a7396f1723f)
 
+### 📄 Licença
 
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
+### 🙋 Sobre o autor
+
+Feito com dedicação por [João Carlos](https://github.com/JCarlosSGomes).  
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-carlos-b70169125/) para trocar ideias, oportunidades ou colaborações!
