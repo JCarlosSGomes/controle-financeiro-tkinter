@@ -42,3 +42,29 @@ Ele permite adicionar, listar, remover transações, gerar gráficos de análise
 ```bash
 git clone https://github.com/JCarlosSGomes/controle-financeiro-tkinter.git
 cd controle-financeiro-tkinter
+```
+
+### 2️⃣ Crie e ative o ambiente virtual
+
+# Windows
+python -m venv venv
+venv\Scripts\activate
+
+# Linux/macOS
+python3 -m venv venv
+source venv/bin/activate
+
+### 3️⃣ Instale as dependências
+
+pip install -r requirements.txt
+
+### 4️⃣ Rode a versão gráfica (Tkinter)
+
+python -m gui.app
+
+### 5️⃣ Rode a versão terminal (Typer)
+
+python main.py --help
+
+📸 Prints
+
