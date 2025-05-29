@@ -74,7 +74,7 @@ python main.py --help
 
 ### 📄 Licença
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/JCarlosSGomes/controle-financeiro-tkinter/blob/main/LICENSE) para mais detalhes.
 
 ### 🙋 Sobre o autor
 
