@@ -10,6 +10,3 @@ __pycache__/
 
 # Ignorar arquivos de configurações pessoais
 *.env
-
-# Arquivos salvos de modelo
-transacoes_exportadas.csv
